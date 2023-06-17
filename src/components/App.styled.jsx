@@ -16,8 +16,8 @@ export const TitlePh = styled.h1`
   font-weight: bold;
   color: #008000;
   font-size: 36px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 `;
 
 
